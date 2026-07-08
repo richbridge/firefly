@@ -20,7 +20,7 @@ time=$(date "+%Y%m%d%H%M%S")
 
 git add .
 git commit -m "$time"
-git push -u richfan main
+git push -u richfan master
 
 echo -e "------------------- 上传完成 -------------------"
 
