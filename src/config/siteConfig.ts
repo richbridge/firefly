@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"笼中之鸟，心向自由",
+		"笼鸟自困，心向自由",
 
 	// 站点关键词
 	keywords: [
