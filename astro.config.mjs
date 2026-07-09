@@ -277,6 +277,7 @@ export default defineConfig({
 									value: "#",
 								},
 							],
+							exclude: ['**/*.sh'],
 						},
 					},
 				],
